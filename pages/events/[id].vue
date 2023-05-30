@@ -1,5 +1,5 @@
 <template>
     <div>
-        event id: {{  $route.params.id }}
+        event Id: {{  $route.params.id }}
     </div>
 </template>
